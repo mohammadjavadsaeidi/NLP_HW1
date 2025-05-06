@@ -1,0 +1,31 @@
+Total number of records: 261
+Total word count (including numbers): 46653
+
+Average lengths per field:
+- ingredients.amount:
+    • Average characters: 2.63
+    • Average words:      0.99
+- ingredients.name:
+    • Average characters: 9.57
+    • Average words:      2.16
+- ingredients.unit:
+    • Average characters: 6.61
+    • Average words:      1.48
+- instructions:
+    • Average characters: 79.78
+    • Average words:      18.28
+- location.city:
+    • Average characters: 6.86
+    • Average words:      1.16
+- location.province:
+    • Average characters: 8.49
+    • Average words:      1.35
+- meal_type:
+    • Average characters: 7.80
+    • Average words:      1.74
+- occasion:
+    • Average characters: 4.33
+    • Average words:      1.02
+- title:
+    • Average characters: 11.85
+    • Average words:      2.43
