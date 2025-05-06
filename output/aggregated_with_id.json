@@ -12337,7 +12337,7 @@
         "unit": "قاشق غذاخوری"
       },
       {
-        "name": "آب نصف",
+        "name": "آب",
         "amount": 0.5,
         "unit": "پیمانه"
       }
@@ -12400,9 +12400,19 @@
         "unit": "حبه"
       },
       {
-        "name": "نمک، زردچوبه و فلفل به میزان لازم",
-        "amount": "",
-        "unit": ""
+        "name": "نمک",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "زردچوبه",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "فلفل",
+        "amount": "به مقدار لازم",
+        "unit": null
       }
     ],
     "instructions": [
@@ -12414,10 +12424,13 @@
       "وقتی یک طرف کوکو پخت آن را برش بزنید و برگردانید تا روی دیگر آن هم بپزد."
     ],
     "meal_type": [
-      "سرخ کردنی",
-      "غذای دریایی"
+      "غذای اصلی",
+      "دریایی"
     ],
-    "occasion": [],
+    "occasion": [
+      "شام",
+      "ناهار"
+    ],
     "images": {
       "final_image": "https://chishi.ir/wp-content/uploads/2021/03/eshpel-kookoo.jpg"
     }
@@ -12446,27 +12459,40 @@
       },
       {
         "name": "آبلیمو نصف استکان",
-        "amount": "",
-        "unit": ""
+        "amount": "به مقدار لازم",
+        "unit": null
       },
       {
-        "name": "زعفران آب کرده در صورت تمایل کمی",
-        "amount": "",
-        "unit": ""
+        "name": "زعفران آب کرده",
+        "amount": "به مقدار لازم",
+        "unit": null
       },
       {
-        "name": "نمک، فلفل و روغن به میزان لازم",
-        "amount": "",
-        "unit": ""
+        "name": "نمک",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "فلفل",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "روغن",
+        "amount": "به مقدار لازم",
+        "unit": null
       }
     ],
     "instructions": [
       "زعفران، نمک، فلفل و تخم مرغ را مقداری هم زده، سپس مرغ و آبلیمو را به این مواد اضافه کرده و هم زدن را ادامه می دهیم بعد مانند کوکوی معمولی در روغن سرخ می کنیم."
     ],
     "meal_type": [
-      "سرخ کردنی"
+      "غذای اصلی"
     ],
-    "occasion": [],
+    "occasion": [
+      "شام",
+      "ناهار"
+    ],
     "images": {
       "final_image": "https://parsiday.com/wp-content/uploads/2022/07/coko-gilani.jpg"
     }
@@ -12499,14 +12525,44 @@
         "unit": "گرم"
       },
       {
-        "name": "رب انار، رب گوجه فرنگی و شکر از هر کدام",
+        "name": "گوجه فرنگی",
         "amount": 2.0,
         "unit": "قاشق غذاخوری"
       },
       {
-        "name": "نمک، فلفل، زردچوبه، گلپر و آب به میزان لازم",
-        "amount": "",
-        "unit": ""
+        "name": "رب انار",
+        "amount": 2.0,
+        "unit": "قاشق غذاخوری"
+      },
+      {
+        "name": "شکر",
+        "amount": 2.0,
+        "unit": "قاشق غذاخوری"
+      },
+      {
+        "name": "نمک",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "فلفل",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "زردچوبه",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "گلپر",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "آب",
+        "amount": "به مقدار لازم",
+        "unit": null
       }
     ],
     "instructions": [
@@ -12515,9 +12571,12 @@
       "گردوی ساییده شده، رب انار، رب گوجه فرنگی، آب، نمک، فلفل، زردچوبه و شکر را در قابلمه روی پوره کدو ریخته .و به مدت دو ساعت با حرارت ملایم می گذاریم تا بجوشد در انتها گلپر را می ریزیم تا غذا آماده شود"
     ],
     "meal_type": [
-      "خوراک"
+      "غذای اصلی"
     ],
-    "occasion": [],
+    "occasion": [
+      "شام",
+      "ناهار"
+    ],
     "images": {
       "final_image": "https://zarinbano.com/wp-content/uploads/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%DA%A9%D9%88%DB%8C%DB%8C-%D8%AA%D8%B1%D9%87.jpg"
     }
@@ -12550,14 +12609,24 @@
         "unit": "حبه"
       },
       {
-        "name": "آب لیوان",
-        "amount": 1.0,
-        "unit": ""
+        "name": "آب",
+        "amount": "به مقدار لازم",
+        "unit": null
       },
       {
-        "name": "نمک و فلفل روغن یا کره به میزان لازم",
-        "amount": "",
-        "unit": ""
+        "name": "نمک",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "فلفل",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "روغن",
+        "amount": "به مقدار لازم",
+        "unit": null
       }
     ],
     "instructions": [
@@ -12568,9 +12637,12 @@
       "معمولا این غذا را به همراه برنج و باقلاسبزخام و سیر سرو می کنند."
     ],
     "meal_type": [
-      "خوراک"
+      "غذای اصلی"
     ],
-    "occasion": [],
+    "occasion": [
+      "شام",
+      "ناهار"
+    ],
     "images": {
       "final_image": "https://sarashpazpapion.com/content/files/recipes/pictures/web/2016/10/8/j22cd3ug8p3qt0c0anngr4i6dlq9h2ckMZ4cDOMGEkq6jU6G3m.webp"
     }
@@ -12598,9 +12670,9 @@
         "unit": "گرم"
       },
       {
-        "name": "آب جوش به میزان لازم تا حدی که خمیر یه دست نچسبد",
-        "amount": "",
-        "unit": ""
+        "name": "آب جوش",
+        "amount": "به مقدار لازم",
+        "unit": null
       }
     ],
     "instructions": [
@@ -12608,10 +12680,15 @@
       "(حدود 20 دقیقه در آبجوش بجوشد) بعد خمیر را بصورت نان لواش درآورده یعنی با وردنه باز می کنیم بصورت خیلی نازک و روی هر ظرفی که داشتیم می پزیم این ظرف می تواند از جنس ساج باشد یا پشت ماهی تابه یا قابلمه ای که روی گاز گرم شده است."
     ],
     "meal_type": [
-      "نان و شیرینی",
-      "غذای دریایی"
+      "غذای اصلی",
+      "دریایی",
+      "دسر"
     ],
-    "occasion": [],
+    "occasion": [
+      "شام",
+      "ناهار",
+      "عصرانه"
+    ],
     "images": {
       "final_image": "https://sarashpazpapion.com/content/files/recipes/pictures/org/2020/03/25/1f8b9c68874d872fd192ddbb1b3254e4HmdYzc6k0kV0R9xr.webp"
     }
@@ -12639,9 +12716,9 @@
         "unit": "پیمانه"
       },
       {
-        "name": "گلپر ساییده ق م",
+        "name": "گلپر ساییده",
         "amount": 1.0,
-        "unit": ""
+        "unit": "قاشق مربا خوری"
       },
       {
         "name": "آرد",
@@ -12649,14 +12726,19 @@
         "unit": "پیمانه"
       },
       {
-        "name": "کره یا روغن -4 قاشق",
-        "amount": 3.0,
-        "unit": ""
+        "name": "روغن",
+        "amount": 4.0,
+        "unit": "قاشق"
       },
       {
-        "name": "نمک و فلفل",
-        "amount": "",
-        "unit": ""
+        "name": "نمک",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "فلفل",
+        "amount": "به مقدار لازم",
+        "unit": null
       }
     ],
     "instructions": [
@@ -12669,10 +12751,13 @@
       "پس از 25-30 دقیقه بردارید."
     ],
     "meal_type": [
-      "خوراک",
-      "غذای دریایی"
+      "غذای اصلی",
+      "دریایی"
     ],
-    "occasion": [],
+    "occasion": [
+      "شام",
+      "ناهار"
+    ],
     "images": {
       "final_image": "https://hesetazegi.ir/_next/image?url=https%3A%2F%2Fstatics.hesetazegi.com%2Ffiles%2Fimages%2Frecipes%2Ffish-with-bitter-orange-and-heracleum-persicum%2Ffish_with_bitter_orange_and_heracleum_persicum_c_hese_tazegi.jpg&w=750&q=75"
     }
@@ -12710,9 +12795,9 @@
         "unit": "گرم"
       },
       {
-        "name": "مغزگردو کوب 200گرم",
-        "amount": 0.5,
-        "unit": ""
+        "name": "مغزگردو کوب",
+        "amount": 200,
+        "unit": "گرم"
       },
       {
         "name": "آب لیموی تازه",
@@ -12725,19 +12810,24 @@
         "unit": "پیمانه"
       },
       {
-        "name": "کره -4 گردو",
-        "amount": 3.0,
-        "unit": ""
+        "name": "کره",
+        "amount": 4.0,
+        "unit": "قالب"
       },
       {
         "name": "زعفران ساییده",
-        "amount": "",
-        "unit": ""
+        "amount": "به مقدار لازم",
+        "unit": null
       },
       {
-        "name": "نمک و فلفل",
-        "amount": "",
-        "unit": ""
+        "name": "نمک",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "فلفل",
+        "amount": "به مقدار لازم",
+        "unit": null
       }
     ],
     "instructions": [
@@ -12751,10 +12841,13 @@
       "با کارد زیر ماهی را از سینی آزاد کنید و با کمک دو کفگیر ماهی را از سینی بردارید و در دیس بگذارید سپس نخ آن را قیچی کنید و بکشید."
     ],
     "meal_type": [
-      "خوراک",
-      "غذای دریایی"
+      "غذای اصلی",
+      "دریایی"
     ],
-    "occasion": [],
+    "occasion": [
+      "شام",
+      "ناهار"
+    ],
     "images": {
       "final_image": "https://blog.okcs.com/wp-content/uploads/2020/12/6d8d72f599b1e88725febee755d7d4e8.jpg"
     }
@@ -12777,7 +12870,7 @@
         "unit": "عدد"
       },
       {
-        "name": "سبزی شامل (گشنیز، نعنا و پونه ساییده شده)",
+        "name": "سبزی",
         "amount": 3.0,
         "unit": "قاشق غذاخوری"
       },
@@ -12797,9 +12890,14 @@
         "unit": "پیمانه"
       },
       {
-        "name": "نمک و رب گوجه فرنگی به میزان لازم",
-        "amount": "",
-        "unit": ""
+        "name": "نمک",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "رب گوجه فرنگی",
+        "amount": "به مقدار لازم",
+        "unit": null
       }
     ],
     "instructions": [
@@ -12810,10 +12908,13 @@
       "کمی نمک هم به آن بزنید ."
     ],
     "meal_type": [
-      "خوراک",
-      "غذای دریایی"
+      "غذای اصلی",
+      "دریایی"
     ],
-    "occasion": [],
+    "occasion": [
+      "شام",
+      "ناهار"
+    ],
     "images": {
       "final_image": "https://cdn.fararu.com/files/fa/news/1402/10/25/1881381_467.jpg"
     }
@@ -12861,14 +12962,24 @@
         "unit": "قاشق غذاخوری"
       },
       {
-        "name": "گلپر به میزان لازم",
-        "amount": "",
-        "unit": ""
+        "name": "گلپر",
+        "amount": "به مقدار لازم",
+        "unit": null
       },
       {
-        "name": "نمک، فلفل و زردچوبه به میزان لازم",
-        "amount": "",
-        "unit": ""
+        "name": "نمک",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "فلفل",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "زردچوبه",
+        "amount": "به مقدار لازم",
+        "unit": null
       },
       {
         "name": "پیازداغ",
@@ -12928,14 +13039,24 @@
         "unit": "پیمانه"
       },
       {
-        "name": "آبلیمو به اندازه کافی",
-        "amount": "",
-        "unit": ""
+        "name": "آبلیمو",
+        "amount": "به مقدار لازم",
+        "unit": null
       },
       {
-        "name": "نمک، فلفل و زردچوبه به میزان لازم",
-        "amount": "",
-        "unit": ""
+        "name": "نمک",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "فلفل",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "زردچوبه",
+        "amount": "به مقدار لازم",
+        "unit": null
       }
     ],
     "instructions": [
@@ -12946,9 +13067,12 @@
       "بعد از 10 دقیقه غذا حاضر است."
     ],
     "meal_type": [
-      "خوراک"
+      "غذای اصلی"
     ],
-    "occasion": [],
+    "occasion": [
+      "شام",
+      "ناهار"
+    ],
     "images": {
       "final_image": "https://chishi.ir/wp-content/uploads/2020/05/morgh-torsh.jpg"
     }
@@ -12981,7 +13105,7 @@
         "unit": "عدد"
       },
       {
-        "name": "پنیر لیقوان یا تبریز",
+        "name": "پنیر لیقوان",
         "amount": 50.0,
         "unit": "گرم"
       },
@@ -12996,9 +13120,12 @@
       "سپس مواد را به شکل تخم مرغ در آورید."
     ],
     "meal_type": [
-      "خوراک"
+      "غذای اصلی"
     ],
-    "occasion": [],
+    "occasion": [
+      "شام",
+      "ناهار"
+    ],
     "images": {
       "final_image": "https://sarashpazpapion.com/content/files/recipes/pictures/web/2016/10/8/43qpnsnssjrtmsbshn6oimtmbafklqqiVGDZlqY6pp94TIpw.webp"
     }
@@ -13021,9 +13148,9 @@
         "unit": "عدد"
       },
       {
-        "name": "مغز گرو ساییده -6 پیمانه",
-        "amount": 5.0,
-        "unit": ""
+        "name": "مغز گرو ساییده",
+        "amount": 6.0,
+        "unit": "پیمانه"
       },
       {
         "name": "غیسی هسته گرفته",
@@ -13036,29 +13163,34 @@
         "unit": "گرم"
       },
       {
-        "name": "رب انار -4 قاشق",
-        "amount": 3.0,
-        "unit": ""
+        "name": "رب انار",
+        "amount": 4.0,
+        "unit": "قاشق"
       },
       {
-        "name": "شکر -2 قاشق",
-        "amount": 1.0,
-        "unit": ""
+        "name": "شکر",
+        "amount": 2.0,
+        "unit": "قاشق"
       },
       {
         "name": "دارچین",
-        "amount": "",
-        "unit": ""
+        "amount": "به مقدار لازم",
+        "unit": null
       },
       {
         "name": "روغن",
-        "amount": "",
-        "unit": ""
+        "amount": "به مقدار لازم",
+        "unit": null
       },
       {
-        "name": "نمک و فلفل",
-        "amount": "",
-        "unit": ""
+        "name": "نمک",
+        "amount": "به مقدار لازم",
+        "unit": null
+      },
+      {
+        "name": "فلفل",
+        "amount": "به مقدار لازم",
+        "unit": null
       }
     ],
     "instructions": [
@@ -13092,34 +13224,34 @@
     },
     "ingredients": [
       {
-        "name": "بادنجان -5 عدد",
+        "name": "بادمجان",
+        "amount": 5.0,
+        "unit": "عدد"
+      },
+      {
+        "name": "گوجه فرنگی پوست کنده خرد کرده",
         "amount": 4.0,
-        "unit": ""
+        "unit": "عدد"
       },
       {
-        "name": "گوجه فرنگی پوست کنده خرد کرده -4عدد",
-        "amount": 3.0,
-        "unit": ""
+        "name": "تخم مرغ",
+        "amount": 5.0,
+        "unit": "عدد"
       },
       {
-        "name": "تخم مرغ -5 عدد",
-        "amount": 4.0,
-        "unit": ""
-      },
-      {
-        "name": "سیرکوبیده -8 پر",
-        "amount": 7.0,
-        "unit": ""
+        "name": "سیرکوبیده",
+        "amount": 8.0,
+        "unit": "پر"
       },
       {
         "name": "روغن",
-        "amount": "",
-        "unit": ""
+        "amount": "به مقدار لازم",
+        "unit": null
       },
       {
         "name": "نمک",
-        "amount": "",
-        "unit": ""
+        "amount": "به مقدار لازم",
+        "unit": null
       }
     ],
     "instructions": [
@@ -13130,9 +13262,12 @@
       "مایه ی درون تابه را بتراشید و 1-2 دور بچرخانید."
     ],
     "meal_type": [
-      "خوراک"
+      "غذای اصلی"
     ],
-    "occasion": [],
+    "occasion": [
+      "شام",
+      "ناهار"
+    ],
     "images": {
       "final_image": "https://chishi.ir/wp-content/uploads/2019/11/mirza-ghasemi.jpg"
     }
@@ -13180,9 +13315,9 @@
         "unit": "قاشق غذاخوری"
       },
       {
-        "name": "آب انار لیوان",
+        "name": "آب انار",
         "amount": 2.0,
-        "unit": ""
+        "unit": "لیوان"
       }
     ],
     "instructions": [
@@ -13195,9 +13330,12 @@
       "سپس با مقداری گردوی خرد شده تزیین می کنیم."
     ],
     "meal_type": [
-      "خوراک"
+      "غذای اصلی"
     ],
-    "occasion": [],
+    "occasion": [
+      "شام",
+      "ناهار"
+    ],
     "images": {
       "final_image": "https://panamag.ir/wp-content/uploads/2022/02/torshi-naz-khatoun.jpg"
     }
@@ -13241,8 +13379,8 @@
       },
       {
         "name": "پودر نارگیل",
-        "amount": null,
-        "unit": "به مقدار دلخواه"
+        "amount": "به مقدار لازم",
+        "unit": null
       },
       {
         "name": "پودر دارچین",
